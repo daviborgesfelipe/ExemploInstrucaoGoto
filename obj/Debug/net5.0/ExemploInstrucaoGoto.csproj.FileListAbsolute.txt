@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ExemploInstrucaoGoto.exe
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ExemploInstrucaoGoto.deps.json
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ExemploInstrucaoGoto.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ExemploInstrucaoGoto.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ExemploInstrucaoGoto.dll
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ref\ExemploInstrucaoGoto.dll
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\bin\Debug\net5.0\ExemploInstrucaoGoto.pdb
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.dll
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ref\ExemploInstrucaoGoto.dll
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.pdb
+C:\xampp\htdocs\udemy\ExemploInstrucaoGoto\obj\Debug\net5.0\ExemploInstrucaoGoto.genruntimeconfig.cache
